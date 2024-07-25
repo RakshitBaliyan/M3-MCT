@@ -11,7 +11,7 @@ Cross-Browser Compatibility: Ensures the landing page looks consistent across ma
 Usage
 You can view the live version of the OLX landing page clone by visiting the following URL:
 
-
+https://rakshitbaliyan.github.io/M3-MCT/
 
 Feel free to modify the HTML and CSS files as needed for personal use or educational purposes. Contributions and improvements are welcome!
 
